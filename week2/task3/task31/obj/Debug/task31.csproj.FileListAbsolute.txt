@@ -1,0 +1,6 @@
+C:\Users\Tima\Desktop\task31\task31\bin\Debug\task31.exe.config
+C:\Users\Tima\Desktop\task31\task31\bin\Debug\task31.exe
+C:\Users\Tima\Desktop\task31\task31\bin\Debug\task31.pdb
+C:\Users\Tima\Desktop\task31\task31\obj\Debug\task31.csproj.CoreCompileInputs.cache
+C:\Users\Tima\Desktop\task31\task31\obj\Debug\task31.exe
+C:\Users\Tima\Desktop\task31\task31\obj\Debug\task31.pdb
