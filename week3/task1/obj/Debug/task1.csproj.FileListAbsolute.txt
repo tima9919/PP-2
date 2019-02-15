@@ -1,0 +1,14 @@
+C:\Users\Tima\Desktop\pp2\PP-2\week3\task1\task1\task1\bin\Debug\task1.exe.config
+C:\Users\Tima\Desktop\pp2\PP-2\week3\task1\task1\task1\bin\Debug\task1.exe
+C:\Users\Tima\Desktop\pp2\PP-2\week3\task1\task1\task1\bin\Debug\task1.pdb
+C:\Users\Tima\Desktop\pp2\PP-2\week3\task1\task1\task1\obj\Debug\task1.csprojAssemblyReference.cache
+C:\Users\Tima\Desktop\pp2\PP-2\week3\task1\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Tima\Desktop\pp2\PP-2\week3\task1\task1\task1\obj\Debug\task1.exe
+C:\Users\Tima\Desktop\pp2\PP-2\week3\task1\task1\task1\obj\Debug\task1.pdb
+C:\Users\Tima\Desktop\pp2\PP-2\week3\task1\bin\Debug\task1.exe.config
+C:\Users\Tima\Desktop\pp2\PP-2\week3\task1\bin\Debug\task1.exe
+C:\Users\Tima\Desktop\pp2\PP-2\week3\task1\bin\Debug\task1.pdb
+C:\Users\Tima\Desktop\pp2\PP-2\week3\task1\obj\Debug\task1.csprojAssemblyReference.cache
+C:\Users\Tima\Desktop\pp2\PP-2\week3\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Tima\Desktop\pp2\PP-2\week3\task1\obj\Debug\task1.exe
+C:\Users\Tima\Desktop\pp2\PP-2\week3\task1\obj\Debug\task1.pdb
